@@ -7,7 +7,7 @@
 다들 화이팅 :D
 
 자바 풀이 제공을 도와주세요! ->
-[링크](../docs/solution-request.md)
+[링크](docs/solution-request.md)
 
 
 ![Last Commit](https://img.shields.io/github/last-commit/AshtonSW/Algorithm-Practice)
