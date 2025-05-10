@@ -21,8 +21,8 @@
 # KB 추가 문제
 | # | 완료 | 문제집 주제 | 진행도 |
 | :--: | :--: | :--: | :--: |
-| 0x01 | |[Graph](workbook/0x01_Graph.md) | ![100%](https://progress-bar.xyz/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
-| 0x02 | |[BFS](workbook/0x02_BFS.md) | ![100%](https://progress-bar.xyz/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
+| 0x01 | |[Graph](workbook/0x01_graph.md) | ![100%](https://progress-bar.xyz/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
+| 0x02 | |[BFS](workbook/0x02_bfs.md) | ![100%](https://progress-bar.xyz/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
 <!-- | 0x03 | |[Tree](workbook/0x15_Tree.md) | ![100%](https://progress-bar.xyz/2/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x04 | |[Dynamic Programming](workbook/0x0D_DynamicProgramming.md) | ![100%](https://progress-bar.xyz/20/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x05 | |[Priority Queue](workbook/0x0F_PriorityQueue.md) | ![100%](https://progress-bar.xyz/3/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
