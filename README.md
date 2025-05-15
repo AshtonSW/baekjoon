@@ -13,8 +13,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/AshtonSW/Algorithm-Practice)
 ![Language: C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B&logoColor=white)
 ![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java&logoColor=white)
-![Language: Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=black)
-
 
 🔍 원하는 파트를 클릭 후 각 문제를 클릭하면 백준의 해당 사이트로 이동합니다.
 
@@ -23,7 +21,8 @@
 | :--: | :--: | :--: | :--: |
 | 0x01 | |[Graph](workbook/0x01_graph.md) | ![100%](https://progress-bar.xyz/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x02 | |[BFS](workbook/0x02_bfs.md) | ![100%](https://progress-bar.xyz/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
-<!-- | 0x03 | |[Tree](workbook/0x15_Tree.md) | ![100%](https://progress-bar.xyz/2/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
+| 0x03 | |[Tree](workbook/0x03_tree.md) | ![100%](https://progress-bar.xyz/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
+<!--
 | 0x04 | |[Dynamic Programming](workbook/0x0D_DynamicProgramming.md) | ![100%](https://progress-bar.xyz/20/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x05 | |[Priority Queue](workbook/0x0F_PriorityQueue.md) | ![100%](https://progress-bar.xyz/3/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x06 | |[Dijkstra Algorithm](workbook/0x19_DijkstraAlgorithm.md) | ![100%](https://progress-bar.xyz/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14) | -->
